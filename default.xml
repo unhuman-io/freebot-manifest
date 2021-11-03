@@ -3,7 +3,7 @@
   <remote fetch="git://github.com" name="github"/>
   <default remote="origin" revision="main" sync-s="true"/>
 
-  <project name="freebot" revision="feature/jetsonr32.6.1"/>
+  <project name="freebot"/>
   <project name="freebot-controller"/>
   <project name="freebot-realtime"/>
   <project name="motor-realtime" revision="develop"/>
