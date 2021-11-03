@@ -8,7 +8,7 @@
   <project name="freebot-realtime"/>
   <project name="motor-realtime" revision="develop"/>
   <project name="usb_rt_driver"/>
-  <project name="rbdl/rbdl" path="3rdparty/rbdl" revision="refs/tags/v2.6.0" remote="github" sync-tags="true"/>
+  <project name="rbdl/rbdl" path="3rdparty/rbdl" revision="92e67e9f752c9533f6dcbb6892f3fcf5564bb09d" remote="github" sync-tags="true"/>
   <project name="freebot-ros" path="catkin-ws/src/freebot-ros"/>
   <project name="freebot-urdf" path="catkin-ws/src/freebot-urdf"/>
   <project name="acschaefer/aliencontrol" revision="master" remote="github" path="catkin-ws/src/aliencontrol"/>
