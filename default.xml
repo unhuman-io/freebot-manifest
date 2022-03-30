@@ -1,6 +1,6 @@
 <manifest>
   <remote fetch="." name="origin"/>
-  <remote fetch="git://github.com" name="github"/>
+  <remote fetch="https://github.com" name="github"/>
   <default remote="origin" revision="main" sync-s="true"/>
 
   <project name="obot"/>
