@@ -2,12 +2,12 @@
   <remote fetch="." name="origin"/>
   <remote fetch="https://github.com" name="github"/>
   <default remote="origin" revision="main" sync-s="true"/>
-
+  
+  <project name="obot"/>
   <project name="obot-controller" revision="develop"/>
   <project name="motor-realtime" revision="develop"/>
   <project name="obot-demo-gui"/>
   
-  <project name="obot" groups="notdefault"/>
   <project name="obot-realtime" groups="notdefault"/>
   <project name="usb_rt_driver" groups="notdefault"/>
   
