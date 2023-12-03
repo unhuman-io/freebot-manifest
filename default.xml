@@ -5,6 +5,7 @@
 
   <project name="obot-controller" revision="develop"/>
   <project name="motor-realtime" revision="develop"/>
+  <project name="obot-demo-gui"/>
   
   <project name="obot" groups="notdefault"/>
   <project name="obot-realtime" groups="notdefault"/>
